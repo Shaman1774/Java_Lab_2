@@ -1,0 +1,13 @@
+{
+    "result":true
+    ,"data":[
+        {
+            "type":{
+                "value":"волейбольный мяч - {VOLLEY_BALL}"
+            }
+            ,"material":"кирпич"
+            ,"weight":"3,4"
+            ,"modelVersion":"tags.1.0"
+        }
+    ]
+}
